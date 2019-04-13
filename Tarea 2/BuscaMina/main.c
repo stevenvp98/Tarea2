@@ -4,6 +4,9 @@
 #include <time.h>
 #include <windows.h>
 
+// 90/100
+// El buscaminas tenía que soportar tamaño variable -10
+
 #define TRUE 0
 #define FALSE 1
 #define Tam_pizarra 6
