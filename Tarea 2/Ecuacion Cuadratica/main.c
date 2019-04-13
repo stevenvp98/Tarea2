@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<math.h>
-
+// 90/100
+// Hubiese sido bueno usar funciones -10
 int main(int argc, char** args){
    float a, b, c, disc, x1, x2, xi, xr;
    printf("Solucion de una ecuacion de segundo grado\n");
