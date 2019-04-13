@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include <conio.h>
 
+// 60/100
+// Esto no era lo que pedía el problema. -40
+// El problema pedía decir si la configuración podría ser parte de un juego de tictac toe
+
 char cuadrado[10] = { 'o', '1', '2', '3', '4', '5', '6', '7', '8', '9' };
 
 int revisar();
