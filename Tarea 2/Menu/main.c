@@ -1,8 +1,15 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <conio.h>
-
-
+// 75/100
+/**
+Calcule Índice acumulado
+entrar materia
+Quitar materia (FALTA -10)
+1 solo estudiante
+edit calificación (FALTA editar -5)
+puntos por materia (FALTA -10)
+*/
 
 struct estudiantes{
   char nombre[20];
