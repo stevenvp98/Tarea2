@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+// 80/100
+// Faltó usar punteros para extraer el texto -20
 
 void raspadoweb(char content[]);
 int FTag(char content[], char tag[], int posi);
